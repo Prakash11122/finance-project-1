@@ -1,0 +1,42 @@
+.sidebar-black {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 200px
+  }
+
+  .sidebar .nav-link {
+    padding: 10px; /* Adjust the padding of the links inside the sidebar */
+  }
+
+  .blue-card {
+    background-color: blue;
+    color: white;
+   
+  }
+
+  .green-card {
+    background-color: green;
+    color: white;
+   
+  }
+
+  .red-card {
+    background-color: red;
+    color: white;
+   
+  }
+
+  .gray-card {
+    background-color: greenyellow;
+    color: white;
+   
+  }
+  .pink-card {
+    background-color: pink;
+    color: white;
+   
+  }
+
+
+  

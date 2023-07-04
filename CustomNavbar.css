@@ -1,0 +1,5 @@
+.custom-navbar {
+    max-width: 1500px; /* Adjust the width as per your requirement */
+    margin: 0 auto;/* Center the navbar horizontally */
+    height: 100px; 
+  }
